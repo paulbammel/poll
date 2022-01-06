@@ -1,0 +1,7 @@
+/* the colored bars under titles */
+.hr-red    { height:0; width:60px; margin-bottom: 20px; font-size:0; border-top:5px solid #ca3e45 }
+.hr-blue   { height:0; width:60px; margin-bottom: 20px; font-size:0; border-top:5px solid #36abce }
+.hr-orange { height:0; width:60px; margin-bottom: 20px; font-size:0; border-top:5px solid #f28446 }
+
+/* the title of an accordion item in opened mode */
+.et_pb_toggle_open h5 { font-size: 200%; }
